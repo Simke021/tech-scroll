@@ -1,0 +1,76 @@
+body{
+    margin-top: 70px;
+    padding: 0;
+    font-family: 'Roboto', sans-serif; 
+    background: #fff; 
+    font-size: 16px;  
+}
+
+.navbar-brand{
+    font-size: 20px;
+    color: #000 !important;
+    font-weight: 700;
+}
+
+#home{
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+
+.home-left img{
+    max-width: 90%;
+    margin-left: 50px;
+}
+
+#home .home-right{
+    margin-top: 90px;
+}
+
+.second h1{
+    font-size:50px;
+    margin-bottom: 30px;
+}
+
+.second p{
+    font-size: 14px;
+    color: #333;
+}
+
+#testemonial{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+}
+
+#testemonial p{
+    font-size: 32px;
+    color: #000;
+    font-family: 'Josefin Sans';
+}
+
+#testemonial .customer{
+    font-size: 18px;
+    color: #666;
+}
+
+#info1 .info-right{
+    margin-top: 90px;
+}
+
+#contact{
+    margin-top: 90px;
+    background-image: url(../images/image3.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 40px;
+    color: #fff;
+    border-top: #333 7px solid;
+    border-bottom: #333 7px solid;    
+}
+
+footer{
+    padding: 20px;
+}
